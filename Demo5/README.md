@@ -3,15 +3,9 @@
 ## 系统效果图如下：
 整体效果
   
-![效果图1](https://github.com/llfjfz/AndroidTutorials/blob/master/PreferencesTutorial/screenshots/1.png)
+![效果图](https://github.com/499549060/Android/blob/master/Demo5/QQ%E5%9B%BE%E7%89%8720180506150345.png)
 
-ListPreference  
 
-![ListPreference](https://github.com/llfjfz/AndroidTutorials/blob/master/PreferencesTutorial/screenshots/2.png)
-
-父子CheckBoxPreference
-
-![CheckBoxPreference](https://github.com/llfjfz/AndroidTutorials/blob/master/PreferencesTutorial/screenshots/3.png)
 
 ## Activity相关代码
 onCreate中代码：
