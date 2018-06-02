@@ -6,7 +6,7 @@
 ### 1.在笔记中添加了笔记修改时间的功能。
 	基本原理：
 		1.在NotePad中新添加一条COLUMN_NAME_MODIFICATION_DATE 属性
-		![](https://github.com/499549060/Android/blob/master/Android_Mid_Work/1.1.png)
+		![1](https://github.com/499549060/Android/blob/master/Android_Mid_Work/1.1.png)
 		2.修改notelist_item布局，添加额外的一个Textview 并用垂直的线性布局
 		![](https://github.com/499549060/Android/blob/master/Android_Mid_Work/1.2.png)
 		3.分别在NoteEditor和NotePadProvider中将新创建或修改的笔记记录，并将其存入COLUMN_NAME_MODIFICATION_DATE属性中
