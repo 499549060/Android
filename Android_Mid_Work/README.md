@@ -1,7 +1,11 @@
 # NotePad
 这是一个建议的笔记本APP
 
-## 我作的工作是，在原有的APP中，实现了两个基本功。
+## 我作的工作是，在原有的APP中实现了
+	1.添加笔记时间
+	2.笔记搜索
+	3.UI美化
+	4.更换背景
 
 ### 1.在笔记中添加了笔记修改时间的功能。
 	基本原理：
@@ -39,3 +43,10 @@
 
 	截图：
 ![](https://github.com/499549060/Android/blob/master/Android_Mid_Work/2.png)
+
+### 3.UI美化
+	改变后如下图：<br>
+![](assets/time.png)
+
+### 4.更换背景
+![](assets/choicecolor.png)
