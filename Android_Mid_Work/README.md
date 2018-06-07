@@ -46,7 +46,8 @@
 
 ### 3.UI美化
 	改变后如下图：<br>
-![](assets/time.png)
+![](https://github.com/CR7563/Android/blob/master/NotePad/assets/time.png)
 
 ### 4.更换背景
-![](assets/choicecolor.png)
+![](https://github.com/CR7563/Android/blob/master/NotePad/assets/choicecolor.png)
+![](https://github.com/CR7563/Android/blob/master/NotePad/assets/background.png)
